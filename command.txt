@@ -1,0 +1,9 @@
+create project
+npm create image-upload
+
+run project
+npm run serve
+
+initialize firebase
+firebase init
+
